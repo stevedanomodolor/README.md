@@ -4,5 +4,3 @@
  Check out my projects and contributions below!
 
 ![Stevedan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevedanomodolor&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevedanomodolor&langs_count=8)
