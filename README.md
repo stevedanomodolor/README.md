@@ -6,4 +6,4 @@
 ![Stevedan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevedanomodolor&show_icons=true&theme=radical)
 
 
-https://github.com/stevedanomodolor/github-readme-stats
+![Stevedan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevedanomodolor&show_icons=true&theme=transparent)
